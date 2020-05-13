@@ -1,1 +1,3 @@
 *.mp3
+ignore_this/*
+.local
